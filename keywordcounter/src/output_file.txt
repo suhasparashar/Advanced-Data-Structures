@@ -1,0 +1,4 @@
+facebook,youtube,amazon
+facebook,youtube,gmail,ebay,amazon
+facebook,youtube,amazon,gmail,ebay,news,weather,netflix,cnn,$facebook
+facebook,youtube
